@@ -1,0 +1,1 @@
+start wmplayer "C:\Users\m7ama\source\repos\pyProject\pyProject\we_wish.mp3"
